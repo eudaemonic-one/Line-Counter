@@ -17,6 +17,7 @@ Step 3: Use python environment to invole line-counter as follows.
 ## Options
 
 Optional arguments are showed as follows:
+
     -h, --help            show this help message and exit
     -d, --detailed        show more detailed result
     -i, --ignore-blank-lines
